@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ferdinand-mravenec/ferdinand-mravenec.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/ferdinand-mravenec/ferdinand-mravenec.github.io/static/js/main.178a9894.js",
-    "static/media/logo.svg": "/ferdinand-mravenec/ferdinand-mravenec.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ferdinand-mravenec/ferdinand-mravenec.github.io/index.html",
-    "main.073c9b0a.css.map": "/ferdinand-mravenec/ferdinand-mravenec.github.io/static/css/main.073c9b0a.css.map",
-    "main.178a9894.js.map": "/ferdinand-mravenec/ferdinand-mravenec.github.io/static/js/main.178a9894.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.53cb6d74.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.53cb6d74.js.map": "/static/js/main.53cb6d74.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.178a9894.js"
+    "static/js/main.53cb6d74.js"
   ]
 }
